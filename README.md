@@ -4,7 +4,7 @@
 <p align="center">
   <samp>
     Contibuting to FOSS projects in my free time.<br/>
-    <a href="https://www.linkedin.com/jakub-mich%C3%A1lek-5b28361b3">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/jakub-mich%C3%A1lek-5b28361b3">LinkedIn</a>
   </samp>
 </p>
 </td>
